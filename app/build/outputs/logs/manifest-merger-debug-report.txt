@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:3:5-50
+		INJECTED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:7:9-38
+		INJECTED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:6:9-35
+		INJECTED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:10:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:13:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:14:22-78
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:16:5-83
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:16:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:17:5-88
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:17:30-85
+application
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:19:5-54:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/tobiasmarkus/StudioProjects/GPSTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:22:9-41
+	android:supportsRtl
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:23:9-35
+	android:allowBackup
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:20:9-35
+	android:icon
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:21:9-43
+	android:theme
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:24:9-40
+activity#com.example.tobiasmarkus.gpstracker.MainActivity
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:25:9-35:20
+	android:screenOrientation
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:28:13-49
+	android:label
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:27:13-45
+	android:theme
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:26:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:33:27-74
+receiver#com.example.tobiasmarkus.gpstracker.MainActivity$GPSReceiver
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:37:9-43:20
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:37:19-59
+intent-filter#com.example.gpstracker.gps_heartbeat+com.example.gpstracker.gps_location_changed+com.example.gpstracker.gps_provider_status
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:38:13-42:29
+action#com.example.gpstracker.gps_provider_status
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:39:17-85
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:39:25-82
+action#com.example.gpstracker.gps_location_changed
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:40:17-86
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:40:25-83
+action#com.example.gpstracker.gps_heartbeat
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:41:17-79
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:41:25-76
+receiver#com.example.tobiasmarkus.gpstracker.LocationService$ShutdownReceiver
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:44:9-48:20
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:44:19-67
+intent-filter#com.example.gpstracker.gps_listener_unbind
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:45:13-47:29
+action#com.example.gpstracker.gps_listener_unbind
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:46:17-85
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:46:25-82
+service#com.example.tobiasmarkus.gpstracker.LocationService
+ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:50:9-52:40
+	android:exported
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from /Users/tobiasmarkus/StudioProjects/GPSTracker/app/src/main/AndroidManifest.xml:51:13-44
